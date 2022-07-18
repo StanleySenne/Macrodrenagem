@@ -1,0 +1,137 @@
+{
+  "steps": [
+    {
+      "name": "Etapa 1 - Planejamento Executivo",
+      "slug": "etapa-1",
+      "description": "O passo inicial é de grande importância, já que demarca o comprometimento e vontade política de obter resultados que façam diferença para o município. Esta etapa corresponde à idealização das ferramentas que serão empregadas em todo o Plano para a construção de estruturas de gestão técnica, política e de comunicação.",
+      "files": [
+        {
+          "name": "Decreto Municipal - Núcleo Gestor",
+          "slug": "decreto-municipal-nucleo-gestor",
+          "path": "./resources/docs/DOCS-OFICIAIS/Decreto Municipal - Núcleo Gestor.pdf",
+          "tags": [
+            "versao-oficial"
+          ]
+        },
+        {
+          "name": "Produto 1 - Planejamento Executivo (Versão Prévia)",
+          "slug": "produto-1-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 1 - PLANEJAMENTO EXECUTIVO [VERSÃO PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        },
+        {
+          "name": "Produto 1 - Planejamento Executivo (Versão Justificada)",
+          "slug": "produto-1-versao-justificada",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 1 - PLANEJAMENTO EXECUTIVO [VERSÃO JUSTIFICADA].pdf",
+          "tags": [
+            "versao-justificada"
+          ]
+        },
+        {
+          "name": "Produto 1 - Planejamento Executivo (Versão Oficial)",
+          "slug": "produto-1-versao-oficial",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 1 - PLANEJAMENTO EXECUTIVO [VERSÃO OFICIAL].pdf",
+          "tags": [
+            "versao-oficial"
+          ]
+        },
+        {
+          "name": "Produto 2 - Plano de Comunicação e Mobilização Social (Versão Prévia)",
+          "slug": "produto-2-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 2 - PLANO DE COMUNICAÇÃO E MOBILIZAÇÃO SOCIAL [VERSÃO PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        },
+        {
+          "name": "Produto 2 - Plano de Comunicação e Mobilização Social (Versão Justificada)",
+          "slug": "produto-2-versao-justificada",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 2 - PLANO DE COMUNICAÇÃO E MOBILIZAÇÃO SOCIAL [VERSÃO JUSTIFICADA].pdf",
+          "tags": [
+            "versao-justificada"
+          ]
+        },
+        {
+          "name": "Produto 2 - Plano de Comunicação e Mobilização Social (Versão Oficial)",
+          "slug": "produto-2-versao-oficial",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 2 - PLANO DE COMUNICAÇÃO E MOBILIZAÇÃO SOCIAL [VERSÃO OFICIAL].pdf",
+          "tags": [
+            "versao-oficial"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ETAPA 2 – Definição do Escopo",
+      "slug": "etapa-2",
+      "description": "Nesta etapa serão definidas a visão que o município deseja para o Plano, bem como os objetivos e as principais áreas de intervenção, definindo as metas, prioridades e horizontes que guiarão todo o trabalho de levantamento de dados técnicos e formulação dos indicadores, da modelagem, diagnóstico, prognóstico, entre outros.",
+      "files": [
+        {
+          "name": "Produto 3 - Construção da Visão (Versão Prévia)",
+          "slug": "produto-3-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 3 - CONSTRUÇÃO DA VISÃO [VERSÃO PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ETAPA 3 – Levantamento de Dados",
+      "slug": "etapa-3",
+      "description": "Neste momento é feito o diagnóstico do município, onde todas as informações necessárias para a construção de uma boa base de dados são adquiridas para identificar a situação (cenário) atual. O levantamento desses dados auxilia na definição de objetivos, diretrizes e metas e no detalhamento de seus programas, projetos e ações.",
+      "files": [
+        {
+          "name": "Produto 4 - Diagnóstico - Capítulo 1 (Versão Prévia)",
+          "slug": "produto-4-cap-1-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 4 - CAP 1 - DIAGNÓSTICO [V. PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        },
+        {
+          "name": "Produto 4 - Diagnóstico - Capítulo 2 (Versão Prévia)",
+          "slug": "produto-4-cap-2-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 4 - CAP 2 - DIAGNÓSTICO [V. PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        },
+        {
+          "name": "Produto 4 - Diagnóstico - Capítulo 3 (Versão Prévia)",
+          "slug": "produto-4-cap-3-versao-previa",
+          "path": "./resources/docs/DOCS-OFICIAIS/PRODUTO 4 - CAP 3 - DIAGNÓSTICO [V. PRÉVIA].pdf",
+          "tags": [
+            "versao-previa"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ETAPA 4 – Cenários e Avaliação de Impactos",
+      "slug": "etapa-4",
+      "description": "A etapa anterior gerou o “Cenário Base” para ser utilizado como parâmetro neste momento, que consiste na projeção (prognóstico) de diversos cenários para o município em um horizonte de 20 anos. A partir desses cenários, que apresentam as possíveis vertentes de desenvolvimento para a cidade, inicia-se a discussão sobre a escolha da melhor alternativa. Este diálogo deve ser participativo e contar com a contribuição da equipe técnica responsável da Prefeitura, para que possam ser, se necessário, redefinidas as metas e finalizado o cenário de prognóstico ideal para o município.",
+      "files": []
+    },
+    {
+      "name": "ETAPA 5 – Programas de Ação",
+      "slug": "etapa-5",
+      "description": "Com as metas e objetivos atualizados, somados ao “Cenário Ideal” definido, inicia-se a elaboração de programas e projetos que visem atingir os parâmetros estabelecidos. Para cada programa, projeto e ação criados, devem ser estabelecidos os custos, os prazos, as responsabilidades, os riscos e os recursos. É necessário fazer um dimensionamento básico de cada critério para que as informações estipuladas sejam condizentes com a realidade. A apresentação do conjunto de programas, projetos e ações será feita de maneira temática e apta para apreciação da população, incluindo mapas de localização, prazos, principais dados, etc.",
+      "files": []
+    },
+    {
+      "name": "ETAPA 6 - Monitoramento e Indicadores de Desempenho",
+      "slug": "etapa-6",
+      "description": "É essencial que sejam desenvolvidas ferramentas para o gerenciamento do Plano Diretor Municipal. A criação de indicadores que viabilizem o monitoramento do mesmo permite que seja avaliada a efetividade das ações realizadas até o momento. Essas ferramentas serão fundamentais para que a Prefeitura possa dar sequência ao planejamento proposto pelo Plano após o término de sua elaboração, durante os anos seguintes, verificando a necessidade de eventuais alterações.",
+      "files": []
+    },
+    {
+      "name": "ETAPA 7 – Consolidação e Finalização do Plano",
+      "slug": "etapa-7",
+      "description": "Trata-se da etapa final de elaboração do Plano Diretor Municipal, onde é feita uma sistematização do conhecimento acumulado nas etapas anteriores. Faz parte da consolidação do Plano a redação de uma minuta (proposta) de lei que será utilizado para a institucionalização de todo o processo.",
+      "files": []
+    }
+  ]
+}

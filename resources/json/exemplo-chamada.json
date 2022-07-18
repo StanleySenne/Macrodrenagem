@@ -1,0 +1,29 @@
+{
+  "_id": "5b9a9e31ffa8cd20b8007002",
+  "name": "teste",
+  "description": "teste",
+  "steps": [
+    {
+      "name": "fase1",
+      "description": "desc 1",
+      "files": [
+        "arquivo 1",
+        "arquivo 2",
+        "arquivo 3"
+      ],
+      "type": "fase",
+      "steps": [
+        {
+          "name": "etapa 1",
+          "description": "desc 1",
+          "files": [
+            "produto 1"
+          ],
+          "type": "etapa"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2018-09-13T17:28:17.000Z",
+  "created_at": "2018-09-13T17:28:17.000Z"
+}
